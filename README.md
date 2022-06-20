@@ -1,2 +1,2 @@
 # Task_Manager
-CRUD application
+This is a CRUD application for Task Management built with Python's Flask web framework
